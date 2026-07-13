@@ -1,0 +1,19 @@
+{
+  "name": "ai-geo-monitoring",
+  "label": "AI Geo Monitoring",
+  "type": "widget",
+  "version": "1.14.0",
+  "exbVersion": "1.14.0",
+  "author": "Uzcosmos / Space Monitoring Center",
+  "description": "AI Geo Monitoring launcher widget.",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 1200,
+    "height": 720
+  }
+}

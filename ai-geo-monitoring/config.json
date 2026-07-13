@@ -1,0 +1,69 @@
+{
+  "headerTitle": "AI Geo Monitoring",
+  "access": {
+    "adminGroups": [
+      {
+        "id": "99716751bb6c4375b0f45183640a6038",
+        "title": "Admin"
+      }
+    ],
+    "cards": {
+      "super-resolution": {
+        "groups": []
+      },
+      "road": {
+        "groups": []
+      },
+      "railway": {
+        "groups": []
+      },
+      "mining-change": {
+        "groups": []
+      },
+      "powerline": {
+        "groups": []
+      },
+      "land-control": {
+        "groups": []
+      },
+      "solar-potential": {
+        "groups": []
+      },
+      "crop-yield": {
+        "groups": []
+      },
+      "pasture-health": {
+        "groups": []
+      }
+    }
+  },
+  "cards": {
+    "super-resolution": {
+      "status": "available"
+    },
+    "road": {
+      "status": "available"
+    },
+    "railway": {
+      "status": "available"
+    },
+    "mining-change": {
+      "status": "available"
+    },
+    "powerline": {
+      "status": "available"
+    },
+    "land-control": {
+      "status": "available"
+    },
+    "solar-potential": {
+      "status": "available"
+    },
+    "crop-yield": {
+      "status": "available"
+    },
+    "pasture-health": {
+      "status": "available"
+    }
+  }
+}
